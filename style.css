@@ -4,6 +4,7 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.5em;
   top: 15%;
+  color: #111;
 }
 
 h1 {
@@ -11,14 +12,15 @@ h1 {
   text-transform: uppercase;
   letter-spacing: 0.5em;
   width: 100%;
-  font: 700 3.5em "Noto Serif", sans-serif;
-  font-size: 5vw;
+  font: 700 2em "Noto Serif", sans-serif;
+  font-size: 3vw;
 }
 
 h2 {
   text-align: center;
   letter-spacing: 0.3em;
-  font: 900 2em "Noto Serif", sans-serif;
+  font: 900 1.5em "Noto Serif", sans-serif;
+  font-size: 3vw;
 }
 
 .randombutton {
